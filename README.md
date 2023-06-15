@@ -1,4 +1,4 @@
-## 💳 Budget Breeze
+# 💳 Budget Breeze
 
 Code that can be deployed to the Investec Programmable Card to help keep your transactions in check.
 
