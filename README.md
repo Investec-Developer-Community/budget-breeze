@@ -4,6 +4,7 @@ Code that can be deployed to the Investec Programmable Card to help keep your tr
 
 - It allows you to set expense categories and environment variables to control a spend per each category
 - Budget Breeze uses the [Investec Porgrammable Cards](https://developer.investec.com/za/programmable-card)
+- You can now use the API to update environment variables for your programmable card without [deploying new code](https://developer.investec.com/za/api-products/documentation/U0ElMjBDYXJkJTIwQ29kZQ%3D%3D#operation/UpdateFunctionEnvironmentVariables)
 
 ## ☑️ Requirements
 
